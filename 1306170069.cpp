@@ -1,5 +1,4 @@
 ﻿// AYŞE ÖZGÜR	
-// 1306170069
 // 01.12.2020
 // Development Environment: Visual Studio2019
 
